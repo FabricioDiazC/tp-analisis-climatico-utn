@@ -21,3 +21,9 @@ tp-analisis-climatico-utn/
 2. Cloná el repositorio usando las celdas del notebook.
 3. Ejecutá `scripts/analisis_climatico.py`.
 4. Los resultados se guardarán automáticamente en `/resultados`.
+
+
+##Links
+- **Google Colab:** https://colab.research.google.com/drive/1NWtFG9871AQu8IJ06Qmeq457Dst18HmV?usp=sharing
+- **Tablero Jira:** https://diazfabricio.atlassian.net/jira/software/projects/CLIMA/boards/2?atlOrigin=eyJpIjoiMTk3MDczNDZjODBmNGVkMDlkZDVmZjYyOGM1YWRjYTUiLCJwIjoiaiJ9
+- **GitHub:** https://github.com/FabricioDiazC/tp-analisis-climatico-utn.git
